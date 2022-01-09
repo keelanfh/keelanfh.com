@@ -1,8 +1,6 @@
-# Keelan Fadden-Hopper
-
 Hi.
 
-I'm a product manager and I work on digital public services at Essex County Council.
+I'm Keelan, I'm a product manager and I work on digital public services at Essex County Council.
 
 In the past, I worked on transport services at Transport for West Midlands.
 
